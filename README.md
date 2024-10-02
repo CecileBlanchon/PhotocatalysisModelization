@@ -8,12 +8,12 @@ Cécile Blanchon<sup>1,2,3,4</sup>, Eve Toulza<sup>1</sup>, Christophe Calvayrac
 <sup>4</sup> PROMES-CNRS UPR 8521, Process Material and Solar Energy, Rambla de la Thermodynamique, 66100 Perpignan, France  
 
 This git contains :  
-- the data file obtained by operating the photoreactor in batch mode: _**"Test.xlsx ’**_  
+- the data file obtained by operating the photoreactor in batch mode: _**"Test.xlsx"**_  
 - irradiation files for the cities of Bordeaux, Nantes and Montpellier  
 - the various matlab functions used to :  
-        - solve the material balances on the reactor with the various kinetic laws:_**"ResolBilan.m “**_ in batch and _**”ResolBilan_SimulationContinu.m ’**_ in continuous  
-        - optimise the calculation of the parameters of each kinetic law: _**‘Optimisation.m’**_  
-        - calculate the duration of the initial plateau based on batch experimental data: _**"InitialShoulder.m ’**_  
-        - modulate the feed rate for continuous reactor operation: _**"ResolBilan_SimulationDebit.m ’**_  
-        - calculate the average inactivation speed in the reactor: _**"AverageInactivationSpeed.m ’**_  
-- the MAIN containing the body of the code and allowing the simulations to be run on the basis of the various donations and experimental data: _**"CodeSimulationArticle_I_lisse.mlx ’**_  
+        - solve the material balances on the reactor with the various kinetic laws:_**"ResolBilan.m"**_ in batch and _**”ResolBilan_SimulationContinu.m"**_ in continuous  
+        - optimise the calculation of the parameters of each kinetic law: _**"Optimisation.m"**_, _**"OptimisationContinu.m"**_, and _**"OptimisationModel0"**_  
+        - calculate the duration of the initial plateau based on batch experimental data: _**"InitialShoulder.m"**_  
+        - modulate the feed rate for continuous reactor operation: _**"ResolBilan_SimulationDebit.m"**_
+        - calculate the average inactivation speed in the reactor: _**"VitesseInactivation_Moyenne.m"**_  
+- the MAIN containing the body of the code and allowing the simulations to be run on the basis of the various donations and experimental data: _**"CodeSimulationArticle_I_lisse_V2.mlx"**_  
