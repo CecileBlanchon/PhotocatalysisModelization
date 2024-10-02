@@ -7,7 +7,7 @@ Cécile Blanchon<sup>1,2,3,4</sup>, Eve Toulza<sup>1</sup>, Christophe Calvayrac
 <sup>3</sup> Laboratoire de Biodiversité et Biotechnologies Microbiennes (LBBM), Sorbonne Universités, CNRS, 66650 Banyuls sur Mer, France  
 <sup>4</sup> PROMES-CNRS UPR 8521, Process Material and Solar Energy, Rambla de la Thermodynamique, 66100 Perpignan, France  
 
-This git contains :  
+This git contains all the code and file used to produce figure and model present in the study:  
 - the data file obtained by operating the photoreactor in batch mode: _**"Test.xlsx"**_  
 - irradiation files for the cities of Bordeaux, Nantes and Montpellier  
 - the various matlab functions used to :  
