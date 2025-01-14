@@ -1,11 +1,12 @@
 # Trials and in silico simulations to predict daily photo-oxidative capacity under solar conditions: A case study on the inactivation of a oyster pathogenic bacteria, Vibrio harveyi
 
-Cécile Blanchon<sup>1,2,3,4</sup>, Eve Toulza<sup>1</sup>, Christophe Calvayrac<sup>2,3</sup>, Stanislawa Eichendorff<sup>4</sup>, Gael Plantard<sup>4*</sup>  
+Cécile Blanchon<sup>1,2,3,4</sup>, Eve Toulza<sup>1</sup>, Christophe Calvayrac<sup>2,3</sup>, Christophe Stavrakakis<sup>5</sup>, Stanislawa Eichendorff<sup>4</sup>, Gael Plantard<sup>4*</sup>  
 
 <sup>1</sup> IHPE, Univ Perpignan Via Domitia, CNRS, IFREMER, Univ Montpellier, Perpignan, France  
 <sup>2</sup> Biocapteurs Analyses Environnement, Université de Perpignan Via Domitia, 66000 Perpignan, France  
 <sup>3</sup> Laboratoire de Biodiversité et Biotechnologies Microbiennes (LBBM), Sorbonne Universités, CNRS, 66650 Banyuls sur Mer, France  
 <sup>4</sup> PROMES-CNRS UPR 8521, Process Material and Solar Energy, Rambla de la Thermodynamique, 66100 Perpignan, France  
+<sup>5</sup> Ifremer – EMMA Plateforme Expérimentale Mollusques Marins Atlantique, F85230 BOUIN, France
 
 This git contains all the code and file used to produce figure and model present in the study:  
 - the data file obtained by operating the photoreactor in batch mode: _**"Test.xlsx"**_  
